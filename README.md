@@ -2,7 +2,7 @@
 #80FF00
 ## Installation :
 
-1) git clone https://github.com/Bhai4You/Termux-Banner
+1) git clone https://github.com/Bholebaba999/Termux-Bannershiv
 
 
 2) cd Termux-Banner
